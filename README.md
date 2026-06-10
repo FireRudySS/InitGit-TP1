@@ -1,2 +1,5 @@
 # InitGit-TP1
-Liberté Egalité Fraternité
+Joël Ngandu-Mbuyi : Owner
+Artur Rzekec : Mainteneur
+Stéphane Lay : Dev1
+Jimmy Marchand : Dev2
